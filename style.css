@@ -1,3 +1,23 @@
+.container-fluid {
+	background-color: #ffffff;
+}
+
+.navbar-header, h3 {
+	background-color: #4aaaa5;
+	color:#ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.img-responsive {
+	width: 200px;
+	height: 200px;
+}
+
+.img-thumbnail {
+	width: 50px;
+	height: 50px;
+}
+
 .footer {
 	background-color: grey;
 	color: white;
